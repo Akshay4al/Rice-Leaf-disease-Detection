@@ -1,0 +1,9 @@
+Python 3.x
+TensorFlow
+Keras
+NumPy
+Matplotlib
+Seaborn
+OpenCV
+Pandas
+keras-tuner
